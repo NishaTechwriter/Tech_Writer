@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://NishaTechwriter.github.io/Tech_Writer/blog</id>
+    <title>Nisha Choudhary Blog</title>
+    <updated>2025-02-11T13:17:45.848Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://NishaTechwriter.github.io/Tech_Writer/blog"/>
+    <subtitle>Nisha Choudhary Blog</subtitle>
+    <icon>https://NishaTechwriter.github.io/Tech_Writer/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[About Me]]></title>
+        <id>https://NishaTechwriter.github.io/Tech_Writer/blog/About Me</id>
+        <link href="https://NishaTechwriter.github.io/Tech_Writer/blog/About Me"/>
+        <updated>2025-02-11T13:17:45.848Z</updated>
+        <summary type="html"><![CDATA[Hello!]]></summary>
+        <content type="html"><![CDATA[<p>Hello!</p>
+<p>Thank you for your interest and for taking the time to review my technical writing portfolio.</p>
+<p>Here's some quick info about me: I am a detail-oriented technical writer with 3+ years of IT industry experience, including Java development. Experienced in creating user manuals, release notes and API documentation, with a strong grasp of software development, documentation tools, and process flows.</p>
+<p>Since I  signed a nondisclosure agreement in my corporate job, so I can't share my tech writing outputs anywhere. I created this portfolio to address these gaps.</p>
+<p>My writing samples include a process document, a project document, and a how-to guide. I'm also currently working on a frequently asked questions (FAQs) page and a video script, and I plan to add them here once I finish. Moreover, I believe in continuous improvement, so I’ll constantly update my samples as I see fit.</p>
+<p>It's still a work in progress, but I hope my technical writing portfolio gives you an insight into my tech writing skills.</p>
+<p>Thank you!</p>
+<p>Nisha</p>]]></content>
+    </entry>
+</feed>
